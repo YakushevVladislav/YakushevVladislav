@@ -45,6 +45,8 @@
   <img width="12" />
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" height="40" alt="bem logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5f03b5d7-5ece-4f27-9f46-bb955e2e3ff7" height="40" alt="gulp logo"  />
+  <img width="12" />
   
 </div>
 
